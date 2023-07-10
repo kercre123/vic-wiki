@@ -1,4 +1,10 @@
-# Victor DVT1
+# DVT1-4(.5)
+
+In this stage, Vector's hardware was mostly final. This is where they figured out the best manufacturing configurations, did FCC certifications, and got the software to a point similar to today.
+
+# DVT1
+
+DVT1s can be identified by a white speaker and black, matte body. There were quite a few of these. They run Android, and typically have a somewhat-working build of Victor software.
 
 "Victor DVT1" prototypes are the first of the Design Validation Test batches for Vector.
 
